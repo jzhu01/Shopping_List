@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="complete_clear">List has been cleared</string>
+    <string name="txt_item_added">Item has been added to the list!</string>
+    <string name="txt_item_edited">Item has been successfully edited.</string>
+    <string name="txt_add_cancel">Cancelled item adding.</string>
+    <string name="action_hide">Hide</string>
+    <string name="title_activity_create_item">CreateItemActivity</string>
+    <string name="clear">Clear</string>
+    <string name="add">Add</string>
+    <string name="create_edit_item_title">Create/Edit an Item</string>
+    <string name="item_type">Item Type:</string>
+    <string name="item_name">Item Name</string>
+    <string name="estimated_cost">Estimated Cost</string>
+    <string name="already_purchased">Already Purchased</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="total">Totals</string>
+    <string name="starting_value">$0</string>
+    <string name="total_singular">Total</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="basketItem_array">
+    <item>Food</item>
+    <item>Books</item>
+    <item>Electronics</item>
+    <item>Clothes</item>
+    <item>Toiletries</item>
+</string-array>
+</resources>
